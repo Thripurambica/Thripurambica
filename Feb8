@@ -1,0 +1,3 @@
+Kilometer=int(input("Enter the length in kilometer:"))
+Centimeter=100000*kilometer;
+print(centimeter)
