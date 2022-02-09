@@ -1,0 +1,6 @@
+a=25
+b=50
+if(a>b): 
+ print('a is biggest number')
+else
+ print('b is biggest number')
