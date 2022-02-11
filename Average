@@ -1,0 +1,35 @@
+Sno=int(input('enter sno'))
+Sname=input('enter name')
+S1=int(input('S1 marks'))
+S2=int(input('S2 marks'))
+S3=int(input('S3 marks'))
+S4=int(input('S4 marks'))
+S5=int(input('S5 marks'))
+S6=int(input('S6 marks'))
+total=S1+S2+S3+S4+S5+S6
+avg=total/6
+if S1<35 and S2<35 and S3<35 and S4<35 and S5<35 and S6<35:
+  print('Fail')
+if avg>91:
+  print('O-grade')
+elif avg>=81:
+  print('A-grade')
+elif avg>=71:
+   print('B-grade')
+elif avg>=60:
+   print('C-grade')
+elif avg>=50:
+   print('D-grade') 
+
+
+
+O/P:
+    enter sno=05
+    enter name=Tripu
+    S1=94
+    S2=89
+    S3=92
+    S4=91
+    S5=94
+    S6=95
+     O-grade
