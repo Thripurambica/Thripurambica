@@ -1,0 +1,70 @@
+'''
+bill=int(input('enter bill:'))
+bill>=300
+  coupon code-MYBILL-20%
+  coupon code-HELLO-30%
+bill>=600
+  coupon code-MYBILL-50%
+  coupon code-HELLO-30%
+ bill>=600
+ tax=0
+else:
+ tax=12%
+ '''
+ sugar=135
+ nuts=150
+ biscuts=50
+ dates=230
+ drinks=90
+ cname=input('enter customer name:')
+ cphno=int(input('enter customer phno:'))
+ sugarq=int(input("enter no. of sugar packets:'))
+ nutsq=int(input("enter no. of nuts packets:'))
+ biscutsq=int(input("enter no. of biscuts packets:'))
+ datesq=int(input("enter no. of dates packets:'))
+ drinksq=int(input("enter no. of drinks packet'''
+bill=int(input('enter bill:'))
+bill>=300
+  coupon code-MYBILL-20%
+  coupon code-HELLO-30%
+bill>=600
+  coupon code-MYBILL-50%
+  coupon code-HELLO-30%
+ bill>=600
+ tax=0
+else:
+ tax=12%
+ '''
+ sugar=135
+ nuts=150
+ biscuts=50
+ dates=230
+ drinks=90
+ cname=input('enter customer name:')
+ cphno=int(input('enter customer phno:'))
+ sugarq=int(input("enter no. of sugar packets:'))
+ nutsq=int(input("enter no. of nuts packets:'))
+ biscutsq=int(input("enter no. of biscuts packets:'))
+ datesq=int(input("enter no. of dates packets:'))
+ drinksq=int(input("enter no. of drinks packets:'))
+ bill=(sugar*sugerq)+(nuts*nutsq)+(biscuts*biscutsq)+(dates*datesq)+(drinks*drinksq)
+ if bill>5000:
+     dis=bill*10/100
+     tax=0
+ elif bill>3000:
+     dis=bill*8/100
+     tax=0
+ elif bill>2000:
+     dis=bill*5/100
+     tax=0
+ elif bill>1000:
+    dis=bill*3/100
+    tax=0
+ elif bill>3000
+    dis=bill*0
+    tax=bill*10/100
+ else:
+    bill=0
+    tax=bill*18/100
+    print('bill amount',main bill)
+  
