@@ -1,0 +1,9 @@
+a=int(input())
+b=int(input())
+print(a//b)
+print(a/b)
+
+o/p:
+  4
+  3
+   
