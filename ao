@@ -1,0 +1,12 @@
+a=int(input(())
+b=int(input())
+print(a+b)
+print(a-b)
+print(a*b)
+
+o/p:
+  3
+  2
+    5
+    1
+    6
