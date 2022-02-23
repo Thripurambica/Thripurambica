@@ -1,0 +1,24 @@
+l=[ ]
+n=int(input())
+for i in range(n):
+    a=int(input(n))
+    l.append(a)
+min=l[0]
+for i in range(l,n):
+    if l[i]<min:
+       min=l[i]
+print(min)
+max=l[i]
+if l[i]>max
+   max=l[i]
+print[max]
+
+
+O/P:
+   4
+   2
+   3
+   76
+   9
+   2
+   76
