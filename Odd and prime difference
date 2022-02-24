@@ -1,0 +1,18 @@
+L=[ ]
+E=[ ]
+O=[ ]
+n=int(input())
+for i in range(1,n+1):
+    value=int(input())
+    L.append(value)
+for j in range(n):
+    if(L[j]%2==0):
+      E.append(L[j])
+    else:
+      O.append(L[j])
+print("E list:",E)
+pri t("O list:",O)
+
+O/P:5
+   54962
+   59 462
