@@ -1,0 +1,24 @@
+n=int(input())
+l=[]
+t=[]
+for i in range(n):
+    x=int(input())
+    l.append(x)
+x=0
+for i in range(n):
+    if l[i]>0:
+       t.append(I[i])
+for i in range(x,n):
+    if l[i]<0:
+       t.append(l[i])
+print(t)
+
+
+O/P:
+   enter n 5
+   1
+   -6
+   3
+   -7
+   8
+   [1 3 8 -6 -7]
