@@ -1,0 +1,10 @@
+Std={101:['hema','f','B.Sc',9.2],102:['swamy','m','B.Com',9.5],103:['anjali','f','B.Sc',9.8]}
+x=[input('enter the std number:')]
+print('name of the std:',S[x][0])
+print('result of the std:'S[x][3])
+
+O/p:
+   
+   enter the std number:102
+   name of the std:swamy
+   result of the std:9.5
